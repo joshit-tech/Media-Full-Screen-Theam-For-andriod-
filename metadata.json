@@ -1,0 +1,7 @@
+{
+  "name": "FullScreenLockPlayer",
+  "description": "Immersive, edge-to-edge full-screen lock screen media player with glassmorphic UI and live MediaSession integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

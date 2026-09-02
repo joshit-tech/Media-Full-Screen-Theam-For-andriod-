@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Modern Disc / Media session motif -->
+        <path
+            android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z M54,74 C42.95,74 34,65.05 34,54 C34,42.95 42.95,34 54,34 C65.05,34 76,42.95 76,54 C76,65.05 65.05,74 54,74 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:endX="80"
+                    android:endY="80"
+                    android:startX="28"
+                    android:startY="28"
+                    android:type="linear">
+                    <item
+                        android:color="#FFB388FF"
+                        android:offset="0.0" />
+                    <item
+                        android:color="#FF7C4DFF"
+                        android:offset="0.6" />
+                    <item
+                        android:color="#FF00E5FF"
+                        android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+        <!-- Center play / music wave symbol -->
+        <path
+            android:pathData="M49,43 L63,54 L49,65 Z"
+            android:fillColor="#FFFFFF" />
+        <!-- Lock badge at top right -->
+        <path
+            android:pathData="M70,30 L70,28 C70,24.69 67.31,22 64,22 C60.69,22 58,24.69 58,28 L58,30 C56.9,30 56,30.9 56,32 L56,40 C56,41.1 56.9,42 58,42 L70,42 C71.1,42 72,41.1 72,40 L72,32 C72,30.9 71.1,30 70,30 Z M64,24 C66.21,24 68,25.79 68,28 L68,30 L60,30 L60,28 C60,25.79 61.79,24 64,24 Z"
+            android:fillColor="#00E5FF" />
+    </group>
+</vector>
+
